@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 96px 0;
+}
+
+.about h5{
+    color: var(--main-color);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.about h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 24px;
+}
+
+.about span{
+    width: 792px;
+    color: var(--text-color);
+    font-size: 20px;
+    text-align: center;
+}
